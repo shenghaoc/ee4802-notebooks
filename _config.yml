@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: EE4802_IE4213_Assignment 2
+title: EE4802 Notebooks
 author: Chen Shenghao
 
 # Force re-execution of notebooks on each build.
